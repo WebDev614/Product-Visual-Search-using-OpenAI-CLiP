@@ -16,7 +16,7 @@ User Interface (UI): The project features a Streamlit-based UI, offering an intu
 ## Getting Started
 Clone the repository to your local machine.
 
-git clone https://github.com/fahad0071/Product-Visual-Search-using-OpenAI-CLiP.git
+git clone https://github.com/WebDev614/Product-Visual-Search-using-OpenAI-CLiP.git
 
 ## Install the required dependencies.
 
